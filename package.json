@@ -1,0 +1,11 @@
+{
+  "name": "review.halfway-part-2",
+  "version": "1.0.0",
+  "description": "This is part 2 of our halfway review; a pull request must be made before the deadline today to submit. You will be making a generic full-stack note-taking app. If you are finished early try to add more features and make this app even more impressive!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
